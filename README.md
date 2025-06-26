@@ -1,5 +1,5 @@
 # WaterQualityPrediction_AICTE
-This project aims to predict multiple water quality parameters using machine learning techniques specifically MultiOutputRegressor wrapped around a RandomForestRegressor.It was developed as a part of a one-month **AICTE virtual internship sponsored by Shell in June 2025**.
+This project aims to predict multiple water quality parameters using machine learning techniques specifically 'MultiOutputRegressor ' wrapped around a 'RandomForestRegressor '. It was developed as a part of a one-month **AICTE virtual internship sponsored by Shell in June 2025**.
 
 ## Overview 
 Access to clean water is critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
