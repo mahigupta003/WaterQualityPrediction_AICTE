@@ -29,5 +29,32 @@ The model predicts multiple water quality such as:
 - O2, NO3, NO2, SO4, PO4 and
 - CL
 
+---
+
+## Model Performance
+
+The model was evaluated using:
+- **R² Score**
+- **Mean Squared Error**
+
+Performance was acceptable across all parameters
+
+---
+
+## Model link:
+
+(https://drive.google.com/file/d/1N0OPdtpWQN_NAtzOBI1uupXFUOf6_FwC/view?usp=drive_link)
+
+---
+
+## Internship Details:
+
+- **Internship Type**: AICTE Virtual Internship- Edunet Foundation
+- **Sponsor**: Shell
+- **Duration**: June 2025(1 month)
+- **Focus Area**: Machine Learning in Environmental Monitoring
+
+
+
 
   
