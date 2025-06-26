@@ -5,7 +5,7 @@ This project aims to predict multiple water quality parameters using machine lea
 Access to clean water is critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 In this project we:
 - Collected and preprocessed real water quality datesets.
-- Used supervised machine learning for mukti target regressionb.
+- Used supervised machine learning for multi target regression.
 - Built a pipeline using 'MultiOutputRegressor' with 'RandomForestRegressor'.
 - Evaluate the model using appropriate regression metrics.
 
